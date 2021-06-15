@@ -1,0 +1,18 @@
+ol{list-style:none;left:0%;margin:0%;padding:0%;font-family:sans-serif;} 
+ h1{margin:0%;left:0%;color:#777;line-height:60%;padding:2%;word-spacing:1px;text-weight:200%;font-family:sans-serif;}
+ol li{margin:0%;left:0%;color:gray;}
+.wb{color:#8845f4;}
+h4{padding-top:5%;color:#8845f4;text-align:center;}
+p{text-align:left;display:block;color:gray;}
+.ul{height:130px;width:100%;margin:0%;padding-top:10%;padding-left:0%;list-style:none;}
+.ul li{color:#8845f4;display:inline;border:1px solid #ccc;box-shadow:1px 2px 5px black;left:0%;padding-top:50px;padding-bottom:50px;padding-left:10px;padding-right:10px;margin:1%;font-size:15px;text-align:center;}
+.ml{height:60px;width:100%;margin:0%;padding-top:0%;padding-left:0%;list-style:none;}
+.ml li{color:#8845f4;display:inline;border:1px solid #ccc;box-shadow:1px 2px 5px black;left:0%;padding-top:50px;padding-bottom:50px;padding-left:10px;padding-right:10px;margin:1%;font-size:15px;text-align:center;}
+.ml li:hover{color:white;transition:0.7s;background:#8845f4;}
+.ul li:hover{color:white;transition:0.7s;background:#8845f4;}
+h4:hover{color:black;}
+form{padding:2%;margin:0%;}
+.l{color:gray;}
+.post{padding:0%;outline:none;border:1px dashed #ccc;width:90%;margin:5%;height:100px;}
+.button{background:#8845f4;border:none;outline:none;padding:1%;margin:5%;top:0%;color:white;border-radius:2px;} 
+footer{margin:0%;color:#777;border-top:1px solid #ccc;padding-top:5%;text-align:center;background:#ccc;}
